@@ -3,6 +3,9 @@ Reviving my front-end skills with a crash course by Mozilla.
 
 In 2019, I completed a web development bootcamp at Flatiron School - RIP Access Labs! - and set out to be a software developer. Fast-forward to today - I have been working in technology consulting for alomst 18 months and haven't been able to flex my front-end skills as much as I would like. To skill back up, I am completing the [MDN Front End Web Developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer). The goal is to complete this program in 4 weeks, and hopefully build some projects along the way. I will be keeping all of my notes and source code in this repo, along with any projects that I may build. 
 
+**Start Date**: 2.23.21
+**Target End Date**: 3.23.21
+
 The agenda for the course is as follows: 
 
 **Semantics and Structure with HTML**
